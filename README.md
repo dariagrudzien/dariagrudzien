@@ -11,4 +11,4 @@ Ideal holiday in my world means [4-6B](https://en.wikipedia.org/wiki/Beaufort_sc
 - 💬 Ask me about designing an oncall training program for your engineers
 - 📫 How to reach me: :bird: `@DariaGrudzien`
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I write about tech, comms & people at [dariagrudzien.com](https://dariagrudzien.com/)
+- ⚡ I write about tech, comms & people at [dariagrudzien.com](https://dariagrudzien.com/)
