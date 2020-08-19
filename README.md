@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a recovering copy-paster. Got traumatized by Java while studying Cognitive Science, went out into the world and… moved to [Jawa Timur](https://en.wikipedia.org/wiki/East_Java). I had all sorts of life adventures in teaching, communication, and peopling - among others. After spending some time doing sales I decided to try building things instead. I did a full stack development bootcamp, was shown cURL and got hooked.
+I'm a recovering copy-paster. Got traumatized by Java while studying Cognitive Science, went out into the world and… moved to [Jawa Timur](https://en.wikipedia.org/wiki/East_Java) for a while. I had all sorts of life adventures in teaching, communication, and peopling - among others. After spending some time doing sales I decided to try building things instead. I did a full stack development bootcamp, was shown cURL and got hooked.
 
 These days I enjoy anything that comes with a CLI and eradicates the need for pressing ctrl+c. I work in [Site Reliability Engineering](https://linkedin.com/in/dariagru) and the thrill of incident management reminds me of sailing. I try to drive [Hive Talks meetups](https://www.meetup.com/apiaryio/events/) and help organize [PyConCZ](https://cz.pycon.org/2020/). And I run a Women of [OCI](https://www.oracle.com/cloud/) chapter in Czech Republic.
 
