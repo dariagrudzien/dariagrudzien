@@ -6,10 +6,10 @@ These days I enjoy anything that comes with a CLI and eradicates the need for pr
 
 I run on coffee and pancakes.
 
-- If you're a woman working in tech in the Czech Republic - join our [CyberMagnolia Community](http://cybermagnolia.com/about)
-- 🔭 I’m working on SRE fun stuff within apiary.io & Oracle API Gateway
-- 🌱 I’m currently learning Python, Ansible, Terraform, Linux
-- 💬 Ask me about designing an oncall training program for your engineers
-- 📫 How to reach me: :bird: `@DariaGrudzien`
-- 😄 Pronouns: She/Her
-- ⚡ I write about tech, comms & people at [dariagrudzien.com](https://dariagrudzien.com/)
+💮 If you're a woman working in tech in the Czech Republic - join our [CyberMagnolia Community](http://cybermagnolia.com/about)
+🔭 I’m working on SRE fun stuff within apiary.io & Oracle API Gateway
+🌱 I’m currently learning Python, Ansible, Terraform, Linux
+💬 Ask me about designing an oncall training program for your engineers
+📫 How to reach me: :bird: `@DariaGrudzien`
+😄 Pronouns: She/Her
+⚡ I write about tech, comms & people at [dariagrudzien.com](https://dariagrudzien.com/)
