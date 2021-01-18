@@ -16,3 +16,6 @@ I run on coffee and pancakes.
 - 📫 How to reach me: :bird: `@DariaGrudzien`
 - 😄 Pronouns: She/Her
 - ⚡ I write about tech, comms & people at [dariagrudzien.com](https://dariagrudzien.com/)
+
+[twitter-image]: https://img.shields.io/twitter/follow/dariagrudzien?style=social
+[web-image]: https://img.shields.io/badge/-dariagrudzien.com-critical?style=flat-square
