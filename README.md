@@ -18,4 +18,4 @@ I run on coffee and pancakes.
 - ⚡ I write about tech, comms & people at [dariagrudzien.com](https://dariagrudzien.com/)
 
 [twitter-image]: https://img.shields.io/twitter/follow/dariagrudzien?style=social
-[web-image]: https://img.shields.io/badge/-dariagrudzien.com-critical?style=flat-square
+[web-image]: https://img.shields.io/badge/-dariagrudzien.com-06BFC9
