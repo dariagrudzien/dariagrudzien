@@ -9,7 +9,7 @@ These days I enjoy anything that comes with a CLI and eradicates the need for pr
 
 I run on coffee and pancakes.
 
-- 💮 If you're a woman working in tech in the Czech Republic - join our [CyberMagnolia Community](http://cybermagnolia.com/about)
+- 💮 If you're a woman working in tech in the Czech Republic - join our [CyberMagnolia Community](http://cybermagnolia.com/contact)
 - 🛠️ Working on SRE fun stuff (ex @apiaryio and OCI)
 - 🌱 Currently learning Python, Ansible, Terraform, Linux
 - 💬 Ask me about designing an oncall training program for your engineers
