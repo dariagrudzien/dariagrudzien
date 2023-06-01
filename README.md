@@ -10,7 +10,7 @@ These days I enjoy anything that comes with a CLI and eradicates the need for pr
 I run on coffee and pancakes.
 
 - 🛠️ Working on SRE fun stuff (ex @redpanda-data, @apiaryio and OCI)
-- 🌱 Currently focusing learning on Python, incident response, monitoring, observability
+- 🌱 Currently focusing on incident response, monitoring, observability, SLOs, and Python
 - 💬 Ask me about designing incident response for your organization or an oncall training program for your engineers
 - 📫 How to reach me: :bird: `@DariaGrudzien` or `@daria@fosstodon.org`
 - 😄 Pronouns: She/Her
